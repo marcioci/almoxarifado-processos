@@ -1,3 +1,4 @@
+// ALMOXARIFADO PROCESSOS - SUPABASE
 import React, { useEffect, useRef, useState } from "react";
 import { Package, Plus, Search, MapPin, Camera, Minus, X, AlertTriangle, History, Trash2, ChevronLeft, RefreshCw } from "lucide-react";
 import { createClient } from "@supabase/supabase-js";
